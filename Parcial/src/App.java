@@ -256,7 +256,7 @@ public class App
 		System.out.println (" ");
 		System.out.println ("Programa Finalizado");
 		System.out.println (" ");
-		System.out.println ("Powered by Jorge Rodríguez and Diego Ariza ®");
+		System.out.println ("Powered by Jorge Rodríguez G.");
 	}
 	public static void main (String[]args)
 	{
